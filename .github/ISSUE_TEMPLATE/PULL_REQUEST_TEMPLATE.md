@@ -1,0 +1,35 @@
+---
+name: Pull Request Template
+about: Standard template for submitting a Pull Request
+title: ""
+labels: ""
+assignees: ""
+---
+
+### ️ Related Issue
+
+If this PR solves any issue, describe it below:
+
+> **Example:** `fixes #1111`, `closes #1234`
+
+
+
+---
+
+###  Description
+
+<!-- 
+Please provide a detailed summary of the changes.
+- What is the motivation behind this PR?
+- Why is this change necessary?
+-->
+
+---
+
+###  Changes
+
+<!-- List the key changes made in this PR -->
+
+- [ ] Changed ...
+- [ ] Added ...
+- [ ] Removed ...
