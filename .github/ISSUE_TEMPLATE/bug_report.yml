@@ -28,7 +28,3 @@ body:
       placeholder: e.g., links to related issues, design mockups, or code examples.
     validations:
       required: false
-<time_location>
-当前时间：2026-04-28 星期二
-当前地点：广东省 广州市
-</time_location>
