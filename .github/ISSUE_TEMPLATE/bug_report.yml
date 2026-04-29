@@ -5,6 +5,13 @@ labels: ["bug report"]
 assignees: []
 body:
   - type: textarea
+    id: your environment
+    attributes:
+      label: Your Environment
+      description: Please provide details about your environment.
+    validations:
+      required: true
+  - type: textarea
     id: feature-description
     attributes:
       label: Bug Description
